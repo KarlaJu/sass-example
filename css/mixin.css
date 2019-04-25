@@ -1,0 +1,25 @@
+.square-one {
+  background: #cc5a5a;
+  width: 200px;
+  height: 200px;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.square-two {
+  background: #cc5a5a;
+  width: 200px;
+  height: 200px;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.square-three {
+  background: #cc5a5a;
+  width: 200px;
+  height: 200px;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+/*# sourceMappingURL=mixin.css.map */

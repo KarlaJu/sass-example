@@ -1,9 +1,5 @@
-$yellowColor: #f9ed69;
-$orangeColor: #f08a5d;
-$pinkColor: #b83b5e;
-h1{
-  color: rgb(205, 107, 50);
-}
+@import "variables";
+@import "header";
 section{
   background: $yellowColor;
   h1{
