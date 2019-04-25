@@ -2,14 +2,27 @@ h1 {
   color: #cd6b32;
 }
 
+section {
+  background: #f9ed69;
+}
+section h1 {
+  background: #f08a5d;
+}
+section h2 {
+  background: #b83b5e;
+}
+section p {
+  background: #6a2c70;
+}
+
 footer {
   background: #444;
 }
 footer h4 {
-  color: violet;
+  color: #f9ed69;
 }
 footer h4 a {
-  color: blueviolet;
+  color: green;
 }
 
 /*# sourceMappingURL=style.css.map */

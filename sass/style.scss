@@ -1,0 +1,27 @@
+$yellowColor: #f9ed69;
+$orangeColor: #f08a5d;
+$pinkColor: #b83b5e;
+h1{
+  color: rgb(205, 107, 50);
+}
+section{
+  background: $yellowColor;
+  h1{
+    background: $orangeColor;
+  }
+  h2{
+    background: $pinkColor;
+  }
+  p{
+    background: #6a2c70;
+  }
+}
+footer{ 
+  background: #444;
+  h4{ 
+    color: $yellowColor;
+    a{ 
+      color: green;
+    }
+  }
+}
