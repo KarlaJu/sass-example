@@ -1,6 +1,6 @@
 .square-one {
   background: #3c6085;
-  width: 200px;
+  width: 300px;
   height: 200px;
   margin-top: 5px;
   padding: 10px;
@@ -8,7 +8,7 @@
 
 .square-two {
   background: #51be43;
-  width: 200px;
+  width: 100px;
   height: 200px;
   margin-top: 5px;
   padding: 10px;
@@ -16,7 +16,7 @@
 
 .square-three {
   background: #b93737;
-  width: 200px;
+  width: 300px;
   height: 200px;
   margin-top: 5px;
   padding: 10px;
