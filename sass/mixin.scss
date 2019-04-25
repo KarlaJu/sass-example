@@ -1,16 +1,16 @@
-@mixin square {
- background: rgb(204, 90, 90);
+@mixin square ($color) {
+ background: $color;
   width: 200px;
   height: 200px;
   margin-top: 5px;
   padding: 10px; 
 }
 .square-one{
-  @include square;
+  @include square(#3c6085);
 }
 .square-two{
-  @include square;
+  @include square(#51be43);
 }
 .square-three{
-  @include square;
+  @include square(#b93737);
 }
